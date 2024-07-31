@@ -6,7 +6,7 @@
 
 # Description:
 
-System initialization, telnetd service started, account and password hard coded.
+After the device's system initialization starts, the telnet service is a default startup item. The login account and password for this service are hard-coded and can be directly obtained from the device files. This vulnerability can be exploited by attackers for malicious command execution. Note: This device is a decommissioned device.
 
 # Analyse：
 
